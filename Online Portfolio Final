@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title> Brenda's Portfolio </title>
+  </head>
+
+  <body style="background-color:rgb(0,217,165)"
+<h1 style="text-align:center" style="font-size:150%"> Welcome to my Online Portfolio</h1>
+
+<p style="text-align:center" style=> Hello! My name is Brenda, I am from Georgia born and raised.I am currently a risig senior,i am certified in Microsoft Word and Powerpoint.I have also won within a company i was a part of for JA fellows,#1 company for Georgia.My goal is to Major in Computer Engineering go to Kennesaw State and graduate for my master at Georgia Tech.</p>
+ <ul>
+   <il> My likes are: </il>
+    <il>To explore new ideas and places</il>
+    <il>Shopping</il>
+     <il>Doing makeup.</il>
+  </ul>
+  <ul>
+    <il>My dislikes are: </il>
+    <il>Reading books i do not seem interested</il>
+    <il> </il>
+    <il></il>
+  </ul>
